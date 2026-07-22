@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="قناة القرآن الكريم" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/Saoudi/sa.coran.png" group-title="ISLAMIQUE TV",قناة القرآن الكريم
+#EXTINF:-1 tvg-id="" tvg-name="قناة القرآن الكريم" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/Saoudi/sa.coran.png" group-title="القنوات الإسلامية",قناة القرآن الكريم
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/55964
-#EXTINF:-1 tvg-id="" tvg-name="قناة المجد للقرآن الكريم" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtAqq01Ne_Cqs6Fzowct9dTYBgX4O3OF8IOg&s" group-title="ISLAMIQUE TV",قناة المجد للقرآن الكريم
+#EXTINF:-1 tvg-id="" tvg-name="قناة المجد للقرآن الكريم" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtAqq01Ne_Cqs6Fzowct9dTYBgX4O3OF8IOg&s" group-title="القنوات الإسلامية",قناة المجد للقرآن الكريم
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/162319
 
 #################### News #################### 
@@ -75,138 +75,139 @@ http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/183523
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/233765
 
 #################### beIN MAX #################### 
-#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 1 SD F" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",beIN MAX 1 SD F
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 1 SD F" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",beIN MAX 1 SD F
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/235963
-#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 2 SD F" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",beIN MAX 2 SD F
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 2 SD F" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",beIN MAX 2 SD F
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/235967
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 3 SD F" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",Bein Max 3 SD F
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 3 SD F" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",Bein Max 3 SD F
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/238236
-#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 1 HD F" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",beIN MAX 1 HD F
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 1 HD F" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",beIN MAX 1 HD F
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/235964
-#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 2 HD F" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",beIN MAX 2 HD F
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 2 HD F" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",beIN MAX 2 HD F
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/235968
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 3 HD F" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",Bein Max 3 HD F
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 3 HD F" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",Bein Max 3 HD F
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/238237
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 3 4K F" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",Bein Max 3 4K F
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 3 4K F" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",Bein Max 3 4K F
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/238238
-#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 1 LOW F" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",beIN MAX 1 LOW F
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 1 LOW F" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",beIN MAX 1 LOW F
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/235962
-#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 2 LOW F" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",beIN MAX 2 LOW F
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 2 LOW F" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",beIN MAX 2 LOW F
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/235966
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 1 ˢᴰ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",Bein Max 1 ˢᴰ NM
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 1 ˢᴰ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",Bein Max 1 ˢᴰ NM
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/235529
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 2 ˢᴰ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",Bein Max 2 ˢᴰ NM
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 2 ˢᴰ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",Bein Max 2 ˢᴰ NM
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/235530
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 3 ˢᴰ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",Bein Max 3 ˢᴰ NM
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 3 ˢᴰ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",Bein Max 3 ˢᴰ NM
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/238201
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 4 ˢᴰ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",Bein Max 4 ˢᴰ NM
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 4 ˢᴰ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",Bein Max 4 ˢᴰ NM
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/238202
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 1 ᴴᴰ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",Bein Max 1 ᴴᴰ NM
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 1 ᴴᴰ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",Bein Max 1 ᴴᴰ NM
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/235523
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 2 ᴴᴰ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",Bein Max 2 ᴴᴰ NM
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 2 ᴴᴰ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",Bein Max 2 ᴴᴰ NM
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/235524
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 3 ᴴᴰ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",Bein Max 3 ᴴᴰ NM
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 3 ᴴᴰ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",Bein Max 3 ᴴᴰ NM
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/238199
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 4 ᴴᴰ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",Bein Max 4 ᴴᴰ NM
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 4 ᴴᴰ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",Bein Max 4 ᴴᴰ NM
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/238200
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 2 HD B" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",Bein Max 2 HD B
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 2 HD B" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",Bein Max 2 HD B
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/237616
-#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 1 FHD F" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",beIN MAX 1 FHD F
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 1 FHD F" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",beIN MAX 1 FHD F
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/235965
-#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 2 FHD F" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",beIN MAX 2 FHD F
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 2 FHD F" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",beIN MAX 2 FHD F
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/235969
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 1 ᶠʰᵈ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",Bein Max 1 ᶠʰᵈ NM
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 1 ᶠʰᵈ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",Bein Max 1 ᶠʰᵈ NM
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/235517
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 2 ᶠʰᵈ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",Bein Max 2 ᶠʰᵈ NM
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 2 ᶠʰᵈ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",Bein Max 2 ᶠʰᵈ NM
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/235518
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 3 ᶠʰᵈ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",Bein Max 3 ᶠʰᵈ NM
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 3 ᶠʰᵈ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",Bein Max 3 ᶠʰᵈ NM
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/238203
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 4 ᶠʰᵈ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",Bein Max 4 ᶠʰᵈ NM
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 4 ᶠʰᵈ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",Bein Max 4 ᶠʰᵈ NM
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/238204
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 1 ⁴ᴷ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",Bein Max 1 ⁴ᴷ NM
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 1 ⁴ᴷ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",Bein Max 1 ⁴ᴷ NM
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/235511
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 2 ⁴ᴷ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",Bein Max 2 ⁴ᴷ NM
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 2 ⁴ᴷ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",Bein Max 2 ⁴ᴷ NM
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/235512
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 3 ⁴ᴷ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",Bein Max 3 ⁴ᴷ NM
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 3 ⁴ᴷ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",Bein Max 3 ⁴ᴷ NM
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/238205
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 4 ⁴ᴷ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",Bein Max 4 ⁴ᴷ NM
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 4 ⁴ᴷ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",Bein Max 4 ⁴ᴷ NM
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/238206
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 2 HEVC B" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",Bein Max 2 HEVC B
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 2 HEVC B" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",Bein Max 2 HEVC B
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/237624
-#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX 2 FHD A" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",BEIN MAX 2 FHD A
+#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX 2 FHD A" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",BEIN MAX 2 FHD A
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/237619
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 2 FR ˢᴰ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",Bein Max 2 FR ˢᴰ NM
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 2 FR ˢᴰ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",Bein Max 2 FR ˢᴰ NM
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/235534
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 2 FR ᴴᴰ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",Bein Max 2 FR ᴴᴰ NM
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 2 FR ᴴᴰ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",Bein Max 2 FR ᴴᴰ NM
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/235528
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 2 FR ᶠʰᵈ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",Bein Max 2 FR ᶠʰᵈ NM
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 2 FR ᶠʰᵈ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",Bein Max 2 FR ᶠʰᵈ NM
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/235522
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 1 FR ⁴ᴷ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",Bein Max 1 FR ⁴ᴷ NM
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 1 FR ⁴ᴷ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",Bein Max 1 FR ⁴ᴷ NM
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/235515
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 2 FR ⁴ᴷ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",Bein Max 2 FR ⁴ᴷ NM
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 2 FR ⁴ᴷ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",Bein Max 2 FR ⁴ᴷ NM
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/235516
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 1 EN ˢᴰ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",Bein Max 1 EN ˢᴰ NM
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 1 EN ˢᴰ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",Bein Max 1 EN ˢᴰ NM
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/235531
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 2 EN ˢᴰ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",Bein Max 2 EN ˢᴰ NM
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 2 EN ˢᴰ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",Bein Max 2 EN ˢᴰ NM
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/235532
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 1 EN ᴴᴰ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",Bein Max 1 EN ᴴᴰ NM
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 1 EN ᴴᴰ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",Bein Max 1 EN ᴴᴰ NM
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/235525
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 2 EN ᴴᴰ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",Bein Max 2 EN ᴴᴰ NM
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 2 EN ᴴᴰ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",Bein Max 2 EN ᴴᴰ NM
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/235526
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 1 EN ᶠʰᵈ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",Bein Max 1 EN ᶠʰᵈ NM
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 1 EN ᶠʰᵈ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",Bein Max 1 EN ᶠʰᵈ NM
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/235519
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 2 EN ᶠʰᵈ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",Bein Max 2 EN ᶠʰᵈ NM
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 2 EN ᶠʰᵈ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",Bein Max 2 EN ᶠʰᵈ NM
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/235520
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 1 EN ⁴ᴷ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",Bein Max 1 EN ⁴ᴷ NM
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 1 EN ⁴ᴷ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",Bein Max 1 EN ⁴ᴷ NM
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/235513
-#EXTINF:-1 tvg-id="" tvg-name="Bein Max 2 EN ⁴ᴷ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="COUPE DU MONDE",Bein Max 2 EN ⁴ᴷ NM
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 2 EN ⁴ᴷ NM" tvg-logo="https://www.lapresse.tn/wp-content/uploads/2025/12/coupe-du-monde-2026.jpg" group-title="كأس العالم",Bein Max 2 EN ⁴ᴷ NM
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/235514
 
 #################### Alwan Sport ####################
-#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 1 SD" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="Alwan Sport",Alwan Sport 1 SD
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 1 SD" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="ألوان الرياضية",Alwan Sport 1 SD
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/232589
-#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 2 SD" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="Alwan Sport",Alwan Sport 2 SD
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 2 SD" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="ألوان الرياضية",Alwan Sport 2 SD
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/232590
-#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 3 SD" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="Alwan Sport",Alwan Sport 3 SD
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 3 SD" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="ألوان الرياضية",Alwan Sport 3 SD
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/232591
-#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 4 SD" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="Alwan Sport",Alwan Sport 4 SD
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 4 SD" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="ألوان الرياضية",Alwan Sport 4 SD
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/232592
-#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 5 SD" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="Alwan Sport",Alwan Sport 5 SD
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 5 SD" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="ألوان الرياضية",Alwan Sport 5 SD
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/232593
-#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 6 SD" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="Alwan Sport",Alwan Sport 6 SD
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 6 SD" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="ألوان الرياضية",Alwan Sport 6 SD
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/232594
-#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 1 HD" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="Alwan Sport",Alwan Sport 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 1 HD" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="ألوان الرياضية",Alwan Sport 1 HD
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/232595
-#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 2 HD" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="Alwan Sport",Alwan Sport 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 2 HD" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="ألوان الرياضية",Alwan Sport 2 HD
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/232596
-#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 3 HD" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="Alwan Sport",Alwan Sport 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 3 HD" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="ألوان الرياضية",Alwan Sport 3 HD
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/232597
-#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 4 HD" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="Alwan Sport",Alwan Sport 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 4 HD" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="ألوان الرياضية",Alwan Sport 4 HD
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/232598
-#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 5 HD" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="Alwan Sport",Alwan Sport 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 5 HD" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="ألوان الرياضية",Alwan Sport 5 HD
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/232599
-#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 6 HD" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="Alwan Sport",Alwan Sport 6 HD
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 6 HD" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="ألوان الرياضية",Alwan Sport 6 HD
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/232600
-#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 1 4K" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="Alwan Sport",Alwan Sport 1 4K
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 1 4K" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="ألوان الرياضية",Alwan Sport 1 4K
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/232601
-#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 2 4K" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="Alwan Sport",Alwan Sport 2 4K
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 2 4K" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="ألوان الرياضية",Alwan Sport 2 4K
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/232602
-#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 3 4K" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="Alwan Sport",Alwan Sport 3 4K
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 3 4K" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="ألوان الرياضية",Alwan Sport 3 4K
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/232603
-#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 4 4K" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="Alwan Sport",Alwan Sport 4 4K
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 4 4K" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="ألوان الرياضية",Alwan Sport 4 4K
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/232604
-#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 5 4K" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="Alwan Sport",Alwan Sport 5 4K
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 5 4K" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="ألوان الرياضية",Alwan Sport 5 4K
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/232605
-#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 6 4K" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="Alwan Sport",Alwan Sport 6 4K
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 6 4K" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="ألوان الرياضية",Alwan Sport 6 4K
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/232606
-#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 7 4K" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="Alwan Sport",Alwan Sport 7 4K
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 7 4K" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="ألوان الرياضية",Alwan Sport 7 4K
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/232607
-#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 8 4K" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="Alwan Sport",Alwan Sport 8 4K
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 8 4K" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="ألوان الرياضية",Alwan Sport 8 4K
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/232608
-#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 9 4K" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="Alwan Sport",Alwan Sport 9 4K
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 9 4K" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="ألوان الرياضية",Alwan Sport 9 4K
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/232609
-#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 10 4K" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="Alwan Sport",Alwan Sport 10 4K
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 10 4K" tvg-logo="https://i2.wp.com/almuheet.net/wp-content/uploads/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.jpg" group-title="ألوان الرياضية",Alwan Sport 10 4K
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/232610
+
 #################### BEIN SPORTS SS ####################
 #EXTINF:-1 tvg-id="" tvg-name="---●★| BEIN SPORTS SS |★●---" tvg-logo="" group-title="B. SPORTS S",---●★| BEIN SPORTS SS |★●---
 http://pro.netmos.ovh:7355/EXMOQNS9Y30998CX0/LKHSB87278DOKCPP/27125
